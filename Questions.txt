@@ -1,13 +1,23 @@
 *** QUESTIONS ***
 
 1. What does it mean to `commit` in a git repository?
-< Your answer here >
+* Eli: makes a safe point where a developer can return
+* Alex: makes a save of your work in the git repository
+* James: saves changes to your local repository
+
 
 2. When should you create a new branch?  Use examples in your answer!
-< Your answer here >
+Braden: when you're about to start a major new part
+e.g. if you're going to test new methods in the main program file
+Jeremy: if you're going to add new functionality especially if it has the potential to break existing code
+e.g. create shopping cart, does not break previous work
+Skylar: code in progress so it can be tinkered without breaking code
+e.g. adding a new feature to existing project
 
 3. In your own words, what is a database?  Use examples to explain.
-< Your answer here >
+Rafi: system of tables that is designed to be queried
+e.g. all cars in state, and you have a partial tag
+Isiah: holds a collection of data or records on your computer
 
 4. In a database, how do we create relationships between tables?
 < Your answer here >
