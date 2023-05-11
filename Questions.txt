@@ -5,7 +5,6 @@
 * Alex: makes a save of your work in the git repository
 * James: saves changes to your local repository
 
-
 2. When should you create a new branch?  Use examples in your answer!
 Braden: when you're about to start a major new part
 e.g. if you're going to test new methods in the main program file
@@ -20,4 +19,6 @@ e.g. all cars in state, and you have a partial tag
 Isiah: holds a collection of data or records on your computer
 
 4. In a database, how do we create relationships between tables?
-< Your answer here >
+Alex: e.g. Library program, create id as primary key in patron table, serves as foreign key in books table
+Joe: use a join command that will allow you to connect the tables together
+Seth: using primary keys and foreign keys, every entry in a table has a unique primary key, can add a foreign key to connect to another table
